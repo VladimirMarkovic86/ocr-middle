@@ -7,8 +7,8 @@
      "/save-parameters")
 
 (def read-image-ws-url
-     "/websocket/read-image")
+     "/read-image")
 
 (def process-images-ws-url
-     "/websocket/process-images")
+     "/process-images")
 

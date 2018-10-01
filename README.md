@@ -1,4 +1,4 @@
-# server
+# Optical character recognition middleware
 
 Optical character recognition middleware
 

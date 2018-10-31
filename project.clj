@@ -1,4 +1,4 @@
-(defproject org.clojars.vladimirmarkovic86/ocr-middle "0.1.0"
+(defproject org.clojars.vladimirmarkovic86/ocr-middle "0.2.0"
   :description "Optical character recognition middleware"
   :url "http://github.com/VladimirMarkovic86/ocr-middle"
   :license {:name "Eclipse Public License"

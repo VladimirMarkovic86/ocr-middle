@@ -17,6 +17,8 @@
 
 (def save-parameters "save-parameters")
 
+(def test-document-entity "test-document-entity")
+
 (def functionalities
      (conj
        fns/functionalities
@@ -27,5 +29,6 @@
        process-images
        read-image
        save-sign
-       save-parameters))
+       save-parameters
+       test-document-entity))
 

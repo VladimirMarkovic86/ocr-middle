@@ -1,23 +1,32 @@
 (ns ocr-middle.functionalities
   (:require [common-middle.functionalities :as fns]))
 
-(def document-create "document-create")
+(def document-create
+     "document-create")
 
-(def document-read "document-read")
+(def document-read
+     "document-read")
 
-(def document-update "document-update")
+(def document-update
+     "document-update")
 
-(def document-delete "document-delete")
+(def document-delete
+     "document-delete")
 
-(def process-images "process-images")
+(def process-images
+     "process-images")
 
-(def read-image "read-image")
+(def read-image
+     "read-image")
 
-(def save-sign "save-sign")
+(def save-sign
+     "save-sign")
 
-(def save-parameters "save-parameters")
+(def save-parameters
+     "save-parameters")
 
-(def test-document-entity "test-document-entity")
+(def test-document-entity
+     "test-document-entity")
 
 (def functionalities
      (conj
